@@ -2,6 +2,8 @@
 ### Etudiant à Telecom Nancy 🎓
 ### Développeur pour Equasens 💻
 
+[![Donate](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/antoninrousseaur/)
+
 <!--
 **robinkwcz/robinkwcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
