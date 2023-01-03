@@ -1,4 +1,6 @@
-### Hi there 👋
+### Robin KREROWICZ
+## Etudiant à Telecom Nancy 🎓
+## Développeur pour Equasens 💻
 
 <!--
 **robinkwcz/robinkwcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
